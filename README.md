@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Bikash
-- 👀 Most of the time I am interested in writing code - in nodejs and react, at other times I love to work on my garden and chill with my 2 little girls.
-- 🌱 I’m currently learning go
-- 💞️ I’m looking to collaborate on start up and exiciting projects
+- 👋 Hi, I’m Bikash, a dad, a husband, avid gardener, diy enthusiast and a programmer
+- 👀 I sepnd a lot of time with my family, outside that I also like writing some code
+- 🌱 I'm currently learning go lang and brusing up on some devops skills
+- 💞️ Reach out if you want me to collaborate on a project you are working on
 - 📫 You can reach me at bikashpoudel2011@gmail.com
 
 <!---
